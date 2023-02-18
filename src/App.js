@@ -1,11 +1,11 @@
 import './App.css';
-import LearningComponents from './components/learning-example/LearningComponents';
+import Counter from './components/Counter/Counter';
 function App() {
   return (
     <div className="App">
-      <h1>My to do application</h1>
-      <LearningComponents></LearningComponents>
+     <Counter/>
     </div>
   );
 }
+
 export default App;

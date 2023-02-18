@@ -1,0 +1,26 @@
+.counterButton{
+    font-size: 16px;
+    background-color: rgb(225, 124, 239);
+    width: 100px;
+    margin: 10px;
+    padding: 15px;
+    color: white;
+    border-radius: 15px;
+    border-style: none;
+}
+
+.count{
+    font-size: 150px;
+    padding: 20px;
+}
+
+.resetButton{
+    font-size: 20px;
+    background-color: rgb(183, 63, 234);
+    width: 220px;
+    margin: 15px;
+    padding: 15px;
+    color: white;
+    border-radius: 15px;
+    border-color: rgb(214, 169, 250);
+}
